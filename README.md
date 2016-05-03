@@ -10,3 +10,5 @@ The 3 leds were there to display information :
   
   
 the button is there to restart the hornet counter.
+
+the presentation of this project is here : https://docs.google.com/presentation/d/1SHmvDYFN8m-MWeQ9IGNlEp8vJAnz55Smr7dZDoVpvf0/edit?usp=sharing
